@@ -1,0 +1,22 @@
+# pyproject.toml
+
+[build-system]
+requires = ["setuptools>=61.0.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name="PDDL-Prover"
+version="1.0.0"
+description="A python prover for evaluating FOL formulas on PDDL"
+readme="README.md"
+authors = [{ name = "Carlos Núñez Molina", email = "ccaarlos@ugr.es" }]
+license = { file = "LICENSE" }
+classifiers = [
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python",
+    "Programming Language :: Python :: 3",
+]
+keywords = ["logic", "automated planning", "theorem prover", "pddl"]
+
+[project.urls]
+Homepage = "https://github.com/TheAeryan/PDDL-Prover"
