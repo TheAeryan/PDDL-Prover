@@ -1,4 +1,5 @@
 [![PyPI version](https://badge.fury.io/py/PDDL-Prover.svg)](https://badge.fury.io/py/PDDL-Prover)
+[![Downloads](https://static.pepy.tech/badge/pddl-prover)](https://pepy.tech/project/pddl-prover)
 
 # PDDL-Prover
 A python prover for evaluating FOL formulas on PDDL.
